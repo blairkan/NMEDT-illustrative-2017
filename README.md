@@ -2,14 +2,7 @@
 
 Illustrative analyses for the Naturalistic Music EEG Dataset - Tempo (NMED-T). 
 
-
-
-## Contributors
-* [Steven Losorelli](https://github.com/slosorelli)
-* Duc T. Nguyen
-* [Jacek P. Dmochowski](https://github.com/dmochow/)
-* [Blair Kaneshiro](https://github.com/blairkan)
-
+## Overview
 These scripts reproduce the figures in the following paper: 
 
 Steven Losorelli, Duc T. Nguyen, Jacek P. Dmochowski, and Blair Kaneshiro (2017). [NMED-T: A Tempo-Focused Dataset of Cortical and Behavioral Responses to Naturalistic Music](https://ccrma.stanford.edu/groups/meri/assets/pdf/losorelli2017ISMIR.pdf). In *Proceedings of the 18th International Society for Music Information Retrieval Conference*, Suzhou, China.
@@ -24,7 +17,7 @@ If you use or adapt this code, we ask that you cite the above paper. If utilizin
 This toolbox is licensed under a CC-BY license. See [LICENSE.md](LICENSE.md) for more information.
 
 ## Getting started
-In order to run these analyses, the user should download the EEG dataset from the Stanford Digital Repository. All contents of this repository should be downloaded and their directory structure retained.
+In order to run these analyses, the user should download the EEG dataset from the [Stanford Digital Repository](https://purl.stanford.edu/jn859kj8079). All contents of this repository should be downloaded and their directory structure retained.
 
 ## Main scripts
 

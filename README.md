@@ -31,4 +31,4 @@ This script loads the behavioral responses and recreates the contents of Figure 
 This script reproduces the analyses on the tapping responses and recreates the contents of Figure 4 of the paper. 
 
 ## Contact
-For questions, contact blairbo@ccrma.stanford.edu
+Contact blairbo@ccrma.stanford.edu with any questions.

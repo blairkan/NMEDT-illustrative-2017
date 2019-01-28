@@ -29,3 +29,6 @@ This script loads the behavioral responses and recreates the contents of Figure 
 
 ### NMEDT\_SDR\_3\_tapping.m
 This script reproduces the analyses on the tapping responses and recreates the contents of Figure 4 of the paper. 
+
+## Contact
+For questions, contact blairbo@ccrma.stanford.edu

@@ -14,7 +14,7 @@ Steven Losorelli, Duc T. Nguyen, Jacek P. Dmochowski, and Blair Kaneshiro (2017)
 If you use or adapt this code, we ask that you cite the above paper. If utilizing the data, please cite the dataset as well.
 
 ## License
-This toolbox is licensed under a CC-BY license. See [LICENSE.md](LICENSE.md) for more information.
+This toolbox is licensed under a [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) license. See [LICENSE.md](LICENSE.md) for more information.
 
 ## Getting started
 In order to run these analyses, the user should download the EEG dataset from the [Stanford Digital Repository](https://purl.stanford.edu/jn859kj8079). All contents of this repository should be downloaded and their directory structure retained.
